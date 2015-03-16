@@ -37,6 +37,7 @@
    * [导航控制器](use_controller/use_uinavigationcontroller.md)
    * [tabbar 控制器](use_controller/tabbar_controller.md)
 * [设备相关](device_info/README.md)
+* [UIView 动画](uiview_animation/README.md)
 * [core animation](core_animation/README.md)
    * [CAAnimation 常用属性](core_animation/caanimation_property.md)
    * [CABasiceAnimation](core_animation/cabasiceanimtion.md)
@@ -51,4 +52,8 @@
 * [use image](use_image/README)
    * [圆角图片](use_image/corner_radius_image.md)
 * [interview](interview/README.md)
+* [NSTimer使用](nstimer/README.md)
+* [NSNotificationCenter](nsnotificationcenter/README.md)
+* [设计模式](design_pattern/README.md)
+   * [单例模式](design_pattern/singleton_pattern.md)
 

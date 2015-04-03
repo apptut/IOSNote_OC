@@ -56,4 +56,8 @@
 * [NSNotificationCenter](nsnotificationcenter/README.md)
 * [设计模式](design_pattern/README.md)
    * [单例模式](design_pattern/singleton_pattern.md)
+* [通讯录操作](address_book/README.md)
+* [memory manage](memory_manage/README.md)
+* [桥接](bridge/README.md)
+* [运行时机制](runtime/README.md)
 
